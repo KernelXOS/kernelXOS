@@ -50,7 +50,8 @@
 ## 🌍 Sobre mí
 
 - 🏢 Trabajo en **Kernel X**
-- 📍 Ubicado en **Ambato, Ecuador 🇪🇨**
+- 🏢 Universidad Politécnica Salesiana
+- 📍 Ubicado en **Quito, Ecuador 🇪🇨**
 - 🌐 Web: [kernelxos.com](http://kernelxos.com/)
 - 🔬 ORCID: [0009-0005-0351-2831](https://orcid.org/0009-0005-0351-2831)
 - 📺 YouTube: [@Kernel_CIA](https://youtube.com/@Kernel_CIA)
@@ -75,5 +76,5 @@
 </div>
 
 <div align="center">
-  <i>"El código abierto es libertad — construyamos juntos el futuro del kernel."</i>
+  <i>"Ing en software"</i>
 </div>
