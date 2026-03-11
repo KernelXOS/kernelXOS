@@ -12,7 +12,7 @@
 &nbsp;
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-0351-2831)
 &nbsp;
-[![Ambato EC](https://img.shields.io/badge/📍_Ambato,_Ecuador-0D1117?style=flat-square)](https://maps.google.com/?q=Ambato,Ecuador)
+[![Ambato EC](https://img.shields.io/badge/📍Quito,_Ecuador-0D1117?style=flat-square)](https://maps.google.com/?q=Ambato,Ecuador)
 
 </div>
 
